@@ -7,3 +7,6 @@
 <p align="center">
   Simple GUI To-Do-List Application
 </p>
+
+[![Watch the video](icons/PreviewVideo.mov)](#)
+
