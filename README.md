@@ -8,5 +8,4 @@
   Simple GUI To-Do-List Application
 </p>
 
-[![Watch the video](icons/PreviewVideo.mov)](#)
-
+https://user-images.githubusercontent.com/81068582/154860065-be3aea0f-bf6b-4ed4-9c8a-ae4c7e5420e3.mp4
