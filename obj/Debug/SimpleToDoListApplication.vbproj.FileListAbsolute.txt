@@ -1,0 +1,17 @@
+D:\VBProjects\SimpleToDoListApplication\bin\Debug\SimpleToDoListApplication.exe.config
+D:\VBProjects\SimpleToDoListApplication\bin\Debug\SimpleToDoListApplication.exe
+D:\VBProjects\SimpleToDoListApplication\bin\Debug\SimpleToDoListApplication.pdb
+D:\VBProjects\SimpleToDoListApplication\bin\Debug\SimpleToDoListApplication.xml
+D:\VBProjects\SimpleToDoListApplication\obj\Debug\SimpleToDoListApplication.vbproj.AssemblyReference.cache
+D:\VBProjects\SimpleToDoListApplication\obj\Debug\SimpleToDoListApplication.Form1.resources
+D:\VBProjects\SimpleToDoListApplication\obj\Debug\SimpleToDoListApplication.Resources.resources
+D:\VBProjects\SimpleToDoListApplication\obj\Debug\SimpleToDoListApplication.vbproj.GenerateResource.cache
+D:\VBProjects\SimpleToDoListApplication\obj\Debug\SimpleToDoListApplication.vbproj.CoreCompileInputs.cache
+D:\VBProjects\SimpleToDoListApplication\obj\Debug\SimpleToDoListApplication.exe
+D:\VBProjects\SimpleToDoListApplication\obj\Debug\SimpleToDoListApplication.xml
+D:\VBProjects\SimpleToDoListApplication\obj\Debug\SimpleToDoListApplication.pdb
+D:\VBProjects\SimpleToDoListApplication\bin\Debug\SimpleToDoListApplication.exe.manifest
+D:\VBProjects\SimpleToDoListApplication\bin\Debug\SimpleToDoListApplication.application
+D:\VBProjects\SimpleToDoListApplication\obj\Debug\SimpleToDoListApplication.TrustInfo.xml
+D:\VBProjects\SimpleToDoListApplication\obj\Debug\SimpleToDoListApplication.exe.manifest
+D:\VBProjects\SimpleToDoListApplication\obj\Debug\SimpleToDoListApplication.application
